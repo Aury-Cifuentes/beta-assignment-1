@@ -10,7 +10,7 @@ My approach started with reviewing the [Bloomberg Beta Manual](https://github.co
 **Top Three Outliers**
 | Company | Why |
 | --- | --- |
-| [MindsDB (SF) ](https://vimeo.com/270542434) | MindsDB has made a name for itself in the open-source community; their ML platform has a user base aimed at non-data scientists who need an accessible developer-centric framework for their analyses.|
+| [MindsDB (SF) ](https://www.mindsdb.com/) | MindsDB has made a name for itself in the open-source community; their ML platform has a user base aimed at non-data scientists who need an accessible developer-centric framework for their analyses.|
 | [Orbiter (SF) ](https://www.getorbiter.com) | Orbiter has a nimble product that incorporates machine learning to alert teams of valuable changes in their data and already has several significant customers such as Doordash using its service.|
 | [Zumo Labs (SF) ](https://zumolabs.ai) | Zumo addresses the almost infinite question of data; their DaaS product has the potential to address biases and privacy issues currently impacting the way data is sourced & refined today via their synthetic alternative solution.|
 
