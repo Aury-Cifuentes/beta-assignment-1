@@ -43,6 +43,6 @@ My approach started with reviewing the [Bloomberg Beta Manual](https://github.co
 | [Trimwire (SF)](https://trimwire.com/) | Trimwire offers start-ups a subscription-based cost monitoring service with an opportunity to scale as the rise of computing/AWS-style bills increase in complexity.|
 | [Turing Labs Inc. (NYC)](http://www.turingsaas.com/) | Turing Labs offers a service for CPG R&D clients to introduce technology and automation into their processes via a tech-based consulting hybrid offering.|
 
-Note: From these twenty companies, **55% have a diverse founding team (at least one woman or POC)** and **45% are currently in the Pre-Seed stage for funding**. Overall, the companies above have incredible potential and could be worth exploring further as deciding critical factors such as *trust* can be difficult to determine exclusively online.
+Note: From these nineteen companies, **55% have a diverse founding team (at least one woman or POC)** and **45% are currently in the Pre-Seed stage for funding**. Overall, the companies above have incredible potential and could be worth exploring further as deciding critical factors such as *trust* can be difficult to determine exclusively online.
 
 Sources: Company websites, Crunchbase, LinkedIn, Twitter, and Instagram or Vimeo where applicable
