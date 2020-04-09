@@ -5,7 +5,7 @@ My approach started with the [Bloomberg Beta Manual](https://github.com/Bloomber
 
 **In diving into the Bloomberg Beta past and present, I hoped to get a better idea of what the future could look like with the YC W2020 companies.** *From 169 companies, 50 had some semblance of significant areas Bloomberg Beta specializes in, but ultimately 20 really had exciting outlier-like potential especially when cross-checking them against Beta's non-negotiables.* 
 
-## Several Google Spreadsheet tabs later I concluded the following:
+## My Final List of Companies Includes:
 
 **Top Three Outliers**
 | Company | Why |
