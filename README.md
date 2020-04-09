@@ -1,7 +1,7 @@
 # A Manual-Driven Approach
 I was tasked with a fun assignment to review the [latest Y-Combinator batch](https://www.ycombinator.com/companies/?batch=w2020) and recommend which companies Bloomberg Beta could explore next.
 
-My approach started with the [Bloomberg Beta Manual](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md) as understanding the "Future of Work" as a driver of the fund was critical towards suggesting appropriate companies. Next, after several inspiring linked articles later, I wanted to gain an awareness of the current Beta portfolio. The "themes" from the previous section of the manual were more apparent as I reviewed every company invested in so far. 
+My approach started with reviewing the [Bloomberg Beta Manual](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md) as understanding the "Future of Work" as a driver of the fund was critical towards suggesting appropriate companies. Next, after several inspiring linked articles later, I wanted to gain an awareness of the current Beta portfolio. The "themes" from the previous section of the manual were more apparent as I reviewed every company invested in so far. 
 
 **In diving into the Bloomberg Beta past and present, I hoped to get a better idea of what the future could look like with the YC W2020 companies.** *From 169 companies, 50 had some semblance of significant areas Bloomberg Beta specializes in, but ultimately 20 really had exciting outlier-like potential especially when cross-checking them against Beta's non-negotiables.* 
 
