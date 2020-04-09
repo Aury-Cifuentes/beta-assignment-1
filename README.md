@@ -23,7 +23,7 @@ My approach started with the [Bloomberg Beta Manual](https://github.com/Bloomber
 **The Future Fifteen**
 | Company | Why |
 | --- | --- |
-| [Syndetic (NYC)](https://go.getsyndetic.com) | Syndetic is a hybrid data platform that targets DaaS customers who need to scale, store, and monetize their datasets so this company could address the current perception of data as the new "oil."|
+| [Syndetic (NYC)](https://go.getsyndetic.com) | Syndetic is a hybrid data platform that targets DaaS customers who need to scale, store, and monetize their datasets so this company could address the current market perception of data as the new "oil."|
 | [Datasaur (SF)](https://datasaur.ai) | Datasaur specializes in data labeling and collaboration; the most exciting part of this company involves the use-cases from product reviews to contract analysis, which any start-up could be in the market for versus building another tool in-house. |
 | [ElectroNeek (SF)](https://electroneek.com) | ElectroNeek has several strategic and corporate partners along with scalable product platform targeting IT/devs to address any automation problem.|
 | [Explo (SF)](https://explo.co) | Explo boldly addresses the rise of "no-code" tools with a platform offering analytics powerful enough for everyone from analyst to PM to bypass Excel and SQL all-together.|
@@ -33,9 +33,11 @@ My approach started with the [Bloomberg Beta Manual](https://github.com/Bloomber
 | [Jet Admin (SF)](https://jetadmin.io/) | Jet Admin is a "no-code" internal tool builder that is privacy-enhanced for several industries for a range of analyses, along with steady revenue via several paying clients.|
 | [Motion (SF)](https://www.inmotion.app/) | Motion is a browser-based productivity plug-in that has the potential to raise additional funding due to the opportunity to become a subscription-based model since they are not monetizing user data.|
 | [onetool (SF)](https://onetool.co/) | Onetool is a bundle service platform for productivity and collaboration tools; it has the potential to raise additional capital as its cost-cutting subscription service addresses a spectrum of needs as a business grows.|
-| [PostHog (SF)](https://posthog.com/) | PostHog specializes in a product for developers by developers addressing the limited market of code ready product analytics tools as more technical users would like to see the impact of what they are building sooner.|
-| [Trimwire (SF)](https://trimwire.com/) | Trimwire offers a subscription-based start-up/enterprise-centric cost monitoring service with an opportunity to scale as the rise of computing/AWS-style bills increase in complexity.|
+| [PostHog (SF)](https://posthog.com/) | PostHog specializes in a product for developers by developers addressing the limited market of deployment ready product analytics tools as more technical users would like to see the impact of what they are building sooner.|
+| [Trimwire (SF)](https://trimwire.com/) | Trimwire offers a subscription-based start-up centric cost monitoring service with an opportunity to scale as the rise of computing/AWS-style bills increase in complexity.|
 | [DeepSource (SF)](https://deepsource.io/) | DeepSource strategically applies automation to any Dev environment for code review and is currently used by several large engineering clients paying a tier-based subscription model.|
 | [Turing Labs Inc. (NYC)](http://www.turingsaas.com/) | Turing Labs offers a service for CPG R&D clients to introduce technology and automation into their processes via a tech based consulting hybrid offering.|
 
 Note: For these 20, I have also documented current funding amounts, differentiated between Pre-Seed & Seed, and made notes on diverse founding teams (at least one woman or POC). Overall, the companies above have incredible potential and could be worth exploring further as determining critical factors such as trust is much more difficult online.
+
+Sources: Company websites, Crunchbase, LinkedIn, Twitter, and Instagram or Vimeo where applicable
