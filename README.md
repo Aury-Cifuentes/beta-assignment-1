@@ -15,12 +15,14 @@ My approach started with reviewing the [Bloomberg Beta Manual](https://github.co
 | [Orbiter (SF) ](https://www.getorbiter.com) | Orbiter has a nimble product that incorporates machine learning to alert teams of valuable changes in their data and already has several significant customers such as Doordash using its service.|
 | [Zumo Labs (SF) ](https://zumolabs.ai) | Zumo addresses the almost infinite question of data; their DaaS product has the potential to address biases and privacy issues currently impacting the way data is sourced & refined today via their synthetic alternative solution.|
 
-**Two *Remote* Outliers**
+**Two *Remote^* Outliers**
 
 | Company | Why |
 | --- | --- |
 | [fly.io (Chicago)](https://fly.io) | Fly offers users big and small a platform to differentiate themselves based on speed; through their dynamic container system and accessible pricing model, customers can optimize their apps based on location-centered demand. |
 | [HireSweet (Paris)](https://www.hiresweet.com) | The Hiresweet platform can transform the HR recruiting and retention process through incorporating fair algorithms, argumentative AI, and a privacy-aware design to increase the precision of hires while, in turn forming stronger teams.|
+
+^ "Remote" in the context of the team location being outside of the usual Bloomberg Beta geography
 
 **The Future Fifteen**
 
