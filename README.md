@@ -10,8 +10,8 @@ My approach started with the [Bloomberg Beta Manual](https://github.com/Bloomber
 **Top Three Outliers**
 | Company | Why |
 | --- | --- |
-| [Orbiter (SF) ](https://www.getorbiter.com) | Orbiter has a nimble product that incorporates machine learning to alert teams of valuable changes in their data and already has several significant customers such as Doordash using its service.|
 | [MindsDB (SF) ](https://vimeo.com/270542434) | MindsDB has made a name for itself in the open-source community; their ML platform has a user base aimed at non-data scientists who need an accessible developer-centric framework for their analyses.|
+| [Orbiter (SF) ](https://www.getorbiter.com) | Orbiter has a nimble product that incorporates machine learning to alert teams of valuable changes in their data and already has several significant customers such as Doordash using its service.|
 | [Zumo Labs (SF) ](https://zumolabs.ai) | Zumo addresses the almost infinite question of data; their DaaS product has the potential to address biases and privacy issues currently impacting the way data is sourced & refined today via their synthetic alternative solution.|
 
 **Two *Remote* Outliers**
@@ -23,8 +23,8 @@ My approach started with the [Bloomberg Beta Manual](https://github.com/Bloomber
 **The Future Fifteen**
 | Company | Why |
 | --- | --- |
-| [Syndetic (NYC)](https://go.getsyndetic.com) | Syndetic is a hybrid data platform that targets DaaS customers who need to scale, store, and monetize their datasets so this company could address the current market perception of data as the new "oil."|
 | [Datasaur (SF)](https://datasaur.ai) | Datasaur specializes in data labeling and collaboration; the most exciting part of this company involves the use-cases from product reviews to contract analysis, which any start-up could be in the market for versus building another tool in-house. |
+| [DeepSource (SF)](https://deepsource.io/) | DeepSource strategically applies automation to any Dev environment for code review and is currently used by several large engineering clients paying a tier-based subscription model.|
 | [ElectroNeek (SF)](https://electroneek.com) | ElectroNeek has several strategic and corporate partners along with scalable product platform targeting IT/devs to address any automation problem.|
 | [Explo (SF)](https://explo.co) | Explo boldly addresses the rise of "no-code" tools with a platform offering analytics powerful enough for everyone from analyst to PM to bypass Excel and SQL all-together.|
 | [Freshpaint (SF)](https://www.freshpaint.io) | Freshpaint addresses the analytics gap between custom site/app data and the plethora of marketing & analytics tools through a no-code platform with scalable price offerings.|
@@ -34,8 +34,8 @@ My approach started with the [Bloomberg Beta Manual](https://github.com/Bloomber
 | [Motion (SF)](https://www.inmotion.app/) | Motion is a browser-based productivity plug-in that has the potential to raise additional funding due to the opportunity to become a subscription-based model since they are not monetizing user data.|
 | [onetool (SF)](https://onetool.co/) | Onetool is a bundle service platform for productivity and collaboration tools; it has the potential to raise additional capital as its cost-cutting subscription service addresses a spectrum of needs as a business grows.|
 | [PostHog (SF)](https://posthog.com/) | PostHog specializes in a product for developers by developers addressing the limited market of deployment ready product analytics tools as more technical users would like to see the impact of what they are building sooner.|
+| [Syndetic (NYC)](https://go.getsyndetic.com) | Syndetic is a hybrid data platform that targets DaaS customers who need to scale, store, and monetize their datasets so this company could address the current market perception of data as the new "oil."|
 | [Trimwire (SF)](https://trimwire.com/) | Trimwire offers a subscription-based start-up centric cost monitoring service with an opportunity to scale as the rise of computing/AWS-style bills increase in complexity.|
-| [DeepSource (SF)](https://deepsource.io/) | DeepSource strategically applies automation to any Dev environment for code review and is currently used by several large engineering clients paying a tier-based subscription model.|
 | [Turing Labs Inc. (NYC)](http://www.turingsaas.com/) | Turing Labs offers a service for CPG R&D clients to introduce technology and automation into their processes via a tech based consulting hybrid offering.|
 
 Note: For these 20, I have also documented current funding amounts, differentiated between Pre-Seed & Seed, and made notes on diverse founding teams (at least one woman or POC). Overall, the companies above have incredible potential and could be worth exploring further as determining critical factors such as trust is much more difficult online.
